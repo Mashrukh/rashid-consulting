@@ -12,7 +12,7 @@ import Overflow from "./components/Overflow";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -29,9 +29,10 @@ function App() {
         </Switch>
       </Router>
       <br />
-      <AmplifySignOut />
+      {/* <AmplifySignOut /> */}
     </div>
   );
 }
 
-export default withAuthenticator(App);
+// export default withAuthenticator(App);
+export default App;

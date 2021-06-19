@@ -96,8 +96,7 @@ const Home = () => {
           <Card.Body>
             <Card.Title>Experience</Card.Title>
             <Card.Text>
-              You have to work hard every single day. Even if that means
-              forgetting to sleep!
+              First you put the patty in the bun, then ketchup, mustard, lettuce, lemon, bu, in that ORDER!
             </Card.Text>
           </Card.Body>
         </Card>
@@ -109,8 +108,7 @@ const Home = () => {
           <Card.Body>
             <Card.Title>Successful Projects</Card.Title>
             <Card.Text>
-              Success isn't an accident. It is the result of hardwork day after
-              day, week after week, year after year.
+              Once there was a very successful company, there were so successful, that everyone else quit.
             </Card.Text>
           </Card.Body>
         </Card>
