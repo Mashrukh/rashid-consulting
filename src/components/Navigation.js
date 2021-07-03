@@ -5,7 +5,7 @@ const Navigation = () => {
     <div>
       <Navbar bg="dark" variant="dark" sticky="top">
         <Container>
-          <Navbar.Brand href="/">Avenger Inc</Navbar.Brand>
+          <Navbar.Brand href="/">DG Consulting</Navbar.Brand>
           <Nav className="justify-content-end">
             <NavDropdown title="Our Services" id="ourServices">
               <NavDropdown.Item href="/stormwater">

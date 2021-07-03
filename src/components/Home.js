@@ -38,15 +38,7 @@ const Home = () => {
         <Card.Body>
           <Card.Title>About Us</Card.Title>
           <Card.Text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-            semper pellentesque enim, in tempus diam rhoncus id. Cras felis
-            eros, elementum ut sapien id, dictum cursus odio. Ut scelerisque
-            bibendum venenatis. Class aptent taciti sociosqu ad litora torquent
-            per conubia nostra, per inceptos himenaeos. Maecenas ornare mi sit
-            amet auctor accumsan. Vestibulum suscipit sapien eget odio euismod
-            eleifend. Etiam maximus imperdiet congue. Cras quis tincidunt dolor.
-            Proin lacinia imperdiet metus, quis egestas lorem tempor ac. In
-            rutrum dictum rhoncus.
+          We provide comprehensive services in all aspects of water infrastructure: water, wastewater, industrial water, drinking water and reuse, conveyance and storage, water resources, hydrology, stormwater management including low impact design, ecological management, asset management and trenchless technologies.
           </Card.Text>
           <Button variant="secondary">Go somewhere</Button>
         </Card.Body>
@@ -83,8 +75,7 @@ const Home = () => {
           <Card.Body>
             <Card.Title>Customer First</Card.Title>
             <Card.Text>
-              The customer is always right SpongeBob! You have to listen to the
-              customer.
+              We listen to our customers needs thoroughly, to provide a unique solution.
             </Card.Text>
           </Card.Body>
         </Card>
@@ -96,7 +87,7 @@ const Home = () => {
           <Card.Body>
             <Card.Title>Experience</Card.Title>
             <Card.Text>
-              First you put the patty in the bun, then ketchup, mustard, lettuce, lemon, bu, in that ORDER!
+              Over 25 years of experience in water resources engineering and design.
             </Card.Text>
           </Card.Body>
         </Card>
@@ -108,7 +99,7 @@ const Home = () => {
           <Card.Body>
             <Card.Title>Successful Projects</Card.Title>
             <Card.Text>
-              Once there was a very successful company, there were so successful, that everyone else quit.
+              Please see a few of the projects we have worked on.
             </Card.Text>
           </Card.Body>
         </Card>
